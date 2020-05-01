@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe8f23e8-1302-48f6-a8c9-5e94edeca609" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YdZpnvsVihgC3X3eCZ6ej8r0T2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.start">
+    <configuration name="DatabaseReferesh" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProfHacks2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\steve\PycharmProjects\ProfHacks2020\DatabaseRefresh.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DatabaseRefresh" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProfHacks2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DatabaseRefresh.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProfHacks2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.start" />
+        <item itemvalue="Python.DatabaseRefresh" />
+        <item itemvalue="Python.DatabaseReferesh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe8f23e8-1302-48f6-a8c9-5e94edeca609" name="Default Changelist" comment="" />
+      <created>1583274616995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583274616995</updated>
+      <workItem from="1583274618450" duration="195000" />
+      <workItem from="1583274887224" duration="2517000" />
+      <workItem from="1583290476293" duration="1481000" />
+      <workItem from="1583332504160" duration="3798000" />
+      <workItem from="1583435696106" duration="3735000" />
+      <workItem from="1583504971395" duration="1727000" />
+      <workItem from="1583631998530" duration="679000" />
+      <workItem from="1584656642828" duration="12000" />
+      <workItem from="1584733867472" duration="1060000" />
+      <workItem from="1585336475402" duration="611000" />
+      <workItem from="1586539648786" duration="1533000" />
+      <workItem from="1588097802227" duration="735000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="206" y="133" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583291996547">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="206" y="133" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.960@0.0.1500.960" timestamp="1583291996547" />
+    <state x="532" y="220" key="FileChooserDialogImpl" timestamp="1588098528584">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="532" y="220" key="FileChooserDialogImpl/0.0.1500.960/3000.210.1280.680@0.0.1500.960" timestamp="1588098528584" />
+    <state width="1458" height="256" key="GridCell.Tab.0.bottom" timestamp="1588098538304">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="256" key="GridCell.Tab.0.bottom/0.0.1500.960/3000.210.1280.680@0.0.1500.960" timestamp="1588098538304" />
+    <state width="1458" height="256" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1583632679270" />
+    <state width="1458" height="256" key="GridCell.Tab.0.center" timestamp="1588098538303">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="256" key="GridCell.Tab.0.center/0.0.1500.960/3000.210.1280.680@0.0.1500.960" timestamp="1588098538303" />
+    <state width="1458" height="256" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1583632679270" />
+    <state width="1458" height="256" key="GridCell.Tab.0.left" timestamp="1588098538303">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="256" key="GridCell.Tab.0.left/0.0.1500.960/3000.210.1280.680@0.0.1500.960" timestamp="1588098538303" />
+    <state width="1458" height="256" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1583632679270" />
+    <state width="1458" height="256" key="GridCell.Tab.0.right" timestamp="1588098538304">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="256" key="GridCell.Tab.0.right/0.0.1500.960/3000.210.1280.680@0.0.1500.960" timestamp="1588098538304" />
+    <state width="1458" height="256" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1583632679270" />
+    <state x="252" y="120" key="SettingsEditor" timestamp="1583274767529">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="252" y="120" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1583274767529" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ProfHacks2020$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1583290507436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProfHacks2020$DatabaseReferesh.coverage" NAME="DatabaseReferesh Coverage Results" MODIFIED="1583632676482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProfHacks2020$start.coverage" NAME="start Coverage Results" MODIFIED="1588098075891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProfHacks2020$DatabaseRefresh.coverage" NAME="DatabaseRefresh Coverage Results" MODIFIED="1586539665102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
