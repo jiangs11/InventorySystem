@@ -6,3 +6,7 @@ Admins can create sections and assign managers to one or more sections. There is
 ### Details: 
     - Frontend: Flask
     - Backend: MongoDB
+### Contributors:
+    - Matt Schofield
+    - Steven Jiang
+    - Alex Lam
